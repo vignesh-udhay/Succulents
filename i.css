@@ -78,10 +78,8 @@ header {
 /*Navagation*/
 
 .navigation {
-  /*background-color: #f4f4f4;*/
   display: grid;
   grid-template-columns: 50% 50%;
-  /*box-shadow: 0 0 5px 0 grey;*/
 }
 
 .logo {
